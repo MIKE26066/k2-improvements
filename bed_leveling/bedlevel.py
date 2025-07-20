@@ -19,7 +19,7 @@ mesh = np.array([
 ])
 
 # Available tape thicknesses
-tape_thicknesses = [0.1, 0.06]
+tape_thicknesses = [0.04]
 
 # Generate all combinations of up to 4 tape pieces
 max_pieces = 4
